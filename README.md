@@ -9,3 +9,8 @@ This command shows the files in staging
 
 ## git add
 This commands add existing changes to to a file 
+ * git add README.md
+
+## git commit
+This command commits changes to the repo
+ * git commit -m "First commit"

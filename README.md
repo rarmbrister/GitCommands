@@ -21,9 +21,12 @@ Copies a repository to your local machine
 
 ## git branch
 Add comment here
+
  * git checkout -b branchName
+
 To switch branch names 
  * git checkout differentBranchName
+
 Add comment here
  * git checkout -d BranchName
 

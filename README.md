@@ -19,4 +19,13 @@ This command commits changes to the repo
 Copies a repository to your local machine
  * git clone https://github.com/Afrochemist/GitCommands
 
+## git branch
+Add comment here
+ * git checkout -b branchName
+To switch branch names 
+ * git checkout differentBranchName
+Add comment here
+ * git checkout -d BranchName
+
+
 

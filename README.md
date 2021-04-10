@@ -9,3 +9,25 @@ This command shows the files in staging
 
 ## git add
 This commands add existing changes to to a file 
+ * git add README.md
+
+## git commit
+This command commits changes to the repo
+ * git commit -m "First commit"
+
+## git clone
+Copies a repository to your local machine
+ * git clone https://github.com/Afrochemist/GitCommands
+
+## git branch
+Add comment here
+
+ * git checkout -b branchName
+
+To switch branch names 
+ * git checkout differentBranchName
+
+Add comment here
+ * git checkout -d BranchName
+
+
